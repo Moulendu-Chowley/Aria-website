@@ -2,6 +2,8 @@
 
 This is a simple Music Bot application's website that provides information about the Bot and its features .
 
+Website Link - [Aria Music](https://aria-website.vercel.app/) 
+
 ## Table of Contents
 
 - [Features](#features)
